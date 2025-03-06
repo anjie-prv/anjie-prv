@@ -2,7 +2,8 @@
 ## Hi! I am Anjie and welcome to my GitHub!  👋
 
 <p> I'm a Junior Software and Web Developer, focused on software coding and design and UX/UI design with a special interest in digital forensics. </p>
-<p align="center"> <i> Let's Connect! </i>
+
+<p align="center"> <i> Let's Connect! </i> <p align="center">
   <a href="https://www.linkedin.com/in/anjie-persaud/">
    <code><img alt="My linkedin" width="32" src="https://th.bing.com/th/id/Rf856d3e21e2b8424a7f9b805f91c39bf?rik=iAF35zp5hTwH5Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2ff%2ff9%2fLinkedin_Shiny_Icon.svg%2f600px-Linkedin_Shiny_Icon.svg.png&ehk=2tliRYem%2brILmEvpk98L%2bTZGOK8XcB8xZ865AB5RwDQ%3d&risl=&pid=ImgRaw" /></code>
 </a>
