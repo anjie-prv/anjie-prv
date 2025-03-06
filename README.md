@@ -1,4 +1,6 @@
-## Hi there 👋
+
+## Hi! I am Anjie and welcome to my GitHub!  👋
+
 
 <!--
 **anjie-prv/anjie-prv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
