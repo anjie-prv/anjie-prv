@@ -31,7 +31,7 @@
     ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)&nbsp;
 
 - ## Coding Activity
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjie-prv" width="60%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anjie-prv&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=jupyter%20notebook,cmake,html,css,makefile,shell,procfile" width="60%"/>
 
 - ## Certifications
 
