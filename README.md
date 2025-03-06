@@ -17,8 +17,10 @@
 <br> 
 
 ## About Me 
-*<img width="16" src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Barbados_flat.png" alt="Barbados" /> I am from Barbados. 
+<img width="16" src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Barbados_flat.png" alt="Barbados" /> I am from Barbados. 
 <p> My favoured programming language is Python </p>
+<p> I love to create art and freelance in Graphic Design </p>
+
 
 ## Tech Skills
 - Programming Languages
