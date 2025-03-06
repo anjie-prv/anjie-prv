@@ -1,15 +1,17 @@
 
 ## Hi! I am Anjie and welcome to my GitHub!  👋
 
-<p> I'm a Junior Software and Web Developer, focused on software coding and design and UX/UI design with a special interest in digital forensics. </p>
+<p> I'm a recent Computer Programming graduate entering the industry as a Junior Software and Web Developer.
+  
+  I am passionate about design and technology and the creativity behind it all. Currently I have a focus on software coding and design and UX/UI design with a special interest in digital forensics. </p>
 
-<p align="center"> <i> Let's Connect! </i> <p align="center">
+<p align="center"> <i> Feel Free to Reach Out! </i> <p align="center">
   <a href="https://www.linkedin.com/in/anjie-persaud/">
-   <code><img alt="My linkedin" width="32" src="https://th.bing.com/th/id/Rf856d3e21e2b8424a7f9b805f91c39bf?rik=iAF35zp5hTwH5Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2ff%2ff9%2fLinkedin_Shiny_Icon.svg%2f600px-Linkedin_Shiny_Icon.svg.png&ehk=2tliRYem%2brILmEvpk98L%2bTZGOK8XcB8xZ865AB5RwDQ%3d&risl=&pid=ImgRaw" /></code>
+   <code><img alt="My linkedin" width="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" /></code>
 </a>
 
   <a href="mailto:anjie.prv@gmail.com">
-    <code><img alt="My e-mail" width="32" src="https://th.bing.com/th/id/R2c94e80bc439f8ac26eed33063918083?rik=4GOohs1wTVXZbQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fb%2fb1%2fEmail_Shiny_Icon.svg%2f1024px-Email_Shiny_Icon.svg.png&ehk=lV8sLmfGMfJDgFFgydLDuGp1fJVLXowNb1kShmsPDB4%3d&risl=&pid=ImgRaw" /></code>
+    <code><img alt="My e-mail" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" /></code>
 </a>
 
 <br> 
