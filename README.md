@@ -1,4 +1,4 @@
-
+<!--
 ## Hi! I am Anjie and welcome to my GitHub!  👋
 
 <p> I'm a recent Computer Programming graduate entering the industry as a Junior Software and Web Developer.
@@ -53,7 +53,7 @@
 
 
 
-<!--
+
 **anjie-prv/anjie-prv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
