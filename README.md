@@ -1,3 +1,29 @@
+
+
+# 🚧 Under Construction 🚧
+
+Hey there! Thanks for stopping by 💖  
+My GitHub profile is currently a work in progress while I’m redecorating and uploading new projects!
+
+Check back soon for:
+
+- ✨ Cute, useful front-end projects and experiments
+- 🛠️ Personal and scholastic projects 
+- 📚 Learning logs and resources
+
+---
+
+![Cute construction gif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+> Meanwhile, enjoy this little construction penguin 🐧 and [this mini page](https://yourusername.github.io/under-construction) I made while I tidy up!
+
+
+
+
+
+
+
+
 <!--
 ## Hi! I am Anjie and welcome to my GitHub!  👋
 
